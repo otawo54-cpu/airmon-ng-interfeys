@@ -1,0 +1,2 @@
+# GUI Python standard library (tkinter) bilan ishlaydi.
+# Kali/Debian uchun: sudo apt install python3-tk iw iproute2 usbutils rfkill network-manager aircrack-ng
